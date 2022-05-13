@@ -2,7 +2,7 @@
 #### I am GitHub Readme Generator's creator
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: JAVA / PYTHON / R / SWIFT
+**Skills:** ![Python](https://img.shields.io/badge/Python-important?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-important?style=for-the-badge) ![R](https://img.shields.io/badge/R-important?style=for-the-badge) ![Swift](https://img.shields.io/badge/Swift-important?style=for-the-badge) JAVA / PYTHON / R / SWIFT
 
 - 🔭 I’m currently working on Text Analysis 
 - 🌱 I’m currently learning AWS 
