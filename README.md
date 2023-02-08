@@ -16,7 +16,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ### Find me on
 
-[![LinkedIn](http://commonmark.org/help/images/favicon.png)](https://www.linkedin.com/in/rene-tarot- "LinkedIn")
+[![LinkedIn]([http://commonmark.org/help/images/favicon.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/rene-tarot- "LinkedIn")
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
