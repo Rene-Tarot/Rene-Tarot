@@ -16,7 +16,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ### Find me on
 
-[![LinkedIn]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/rene-tarot- "LinkedIn")
+[![LinkedIn]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/rene-tarot- "LinkedIn")[![StackOverflow]( https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12822615/ren%c3%a9-tarot?tab=profile "StackOverflow") 
 
  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
