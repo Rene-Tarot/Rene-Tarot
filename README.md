@@ -1,9 +1,6 @@
-### Hi there 👋, my name is René Tarot
-#### I am a Junior software engineer
-
-I'm eager to learn new technologies and 
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋,
+#### I'm a developer and programmer,
+who's passionate about creating elegant solutions to complex problems. With experience in multiple programming languages, I love to explore the latest technologies and put them to use in my work. Whether it's front-end development, back-end programming, or anything in between, I'm always excited to learn something new and tackle new challenges. When I'm not coding, I enjoy spending time with my family or indulging in my love of music. Let's build something great together!
 
 ### Skills 
 ![Java](https://img.shields.io/badge/Java-FE8B4D?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-FE8B4D?style=for-the-badge)  ![R](https://img.shields.io/badge/R-FE8B4D?style=for-the-badge) ![Swift](https://img.shields.io/badge/Swift-FE8B4D?style=for-the-badge)
