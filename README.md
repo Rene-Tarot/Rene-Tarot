@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Hello there 👋,
 #### I'm a developer and programmer,
 Who's passionate about creating elegant solutions to complex problems. With experience in multiple programming languages, I love to explore the latest technologies and put them to use in my work. Whether it's front-end development, back-end programming, or anything in between, I'm always excited to learn something new and tackle new challenges. When I'm not coding, I enjoy spending time with my family or indulging in my love of music. Let's build something great together!
 
