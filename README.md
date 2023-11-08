@@ -1,6 +1,6 @@
 ### Hello there 👋,
 #### I'm a developer and programmer,
-Who's passionate about creating elegant solutions to complex problems. With experience in multiple programming languages, I love to explore the latest technologies and put them to use in my work. Whether it's front-end development, back-end programming, or anything in between, I'm always excited to learn something new and tackle new challenges. When I'm not coding, I enjoy spending time with my family or indulging in my love of music. Let's build something great together!
+Who's passionate about creating elegant solutions to complex problems. I love to explore the latest technologies and put them to use in my work. 
 
 ### Skills 
 ![Java](https://img.shields.io/badge/Java-FE8B4D?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-FE8B4D?style=for-the-badge)  ![R](https://img.shields.io/badge/R-FE8B4D?style=for-the-badge) ![Swift](https://img.shields.io/badge/Swift-FE8B4D?style=for-the-badge)
