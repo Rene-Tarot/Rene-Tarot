@@ -3,13 +3,13 @@
 Who's passionate about creating elegant solutions to complex problems. I love to explore the latest technologies and put them to use in my work. 
 
 ### Skills 
-![Java](https://img.shields.io/badge/Java-FE8B4D?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-FE8B4D?style=for-the-badge)  ![R](https://img.shields.io/badge/R-FE8B4D?style=for-the-badge) ![Swift](https://img.shields.io/badge/Swift-FE8B4D?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-FE8B4D?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-FE8B4D?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-FE8B4D?style=for-the-badge) ![Swift](https://img.shields.io/badge/Swift-FE8B4D?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Frameworks 
-![Tensorflow](https://img.shields.io/badge/Tensorflow-62F53B?style=for-the-badge) 
+![Tensorflow](https://img.shields.io/badge/Tensorflow-62F53B?style=for-the-badge&logo=tensorflow&logoColor=Black) 
 
 ### Version Control
-![Git](https://img.shields.io/badge/Git-F56C22?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F56C22?style=for-the-badge&logo=git&logoColor=white)
 
 ### Find me on
 
