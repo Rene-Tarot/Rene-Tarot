@@ -1,5 +1,5 @@
 ### Hello there 👋,
-#### I'm a developer and programmer,
+#### I'm a developer and a programmer,
 Who's passionate about creating elegant solutions to complex problems. I love to explore the latest technologies and put them to use in my work. 
 
 ### Skills 
